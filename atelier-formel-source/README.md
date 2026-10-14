@@ -1,6 +1,6 @@
 # Atelier Formel — Next.js storefront
 
-A component-based Next.js demo for the Atelier Formel menswear concept.
+A component-based Next.js 16 demo for the Atelier Formel menswear concept.
 
 ## Run locally
 
